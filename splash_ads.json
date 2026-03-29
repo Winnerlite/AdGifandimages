@@ -1,0 +1,14 @@
+[
+  {
+    "link": "https://yoursite1.com",
+    "image": "https://yourimagehost.com/image1.jpg"
+  },
+  {
+    "link": "https://yoursite2.com",
+    "image": "https://yourimagehost.com/image2.png"
+  },
+  {
+    "link": "https://yoursite3.com",
+    "image": "https://yourimagehost.com/image3.jpg"
+  }
+]
